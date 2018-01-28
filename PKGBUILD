@@ -1,5 +1,5 @@
 pkgname=konsole-gruvbox-git
-pkgver=r90
+pkgver=r139
 pkgrel=1
 pkgdesc="gruvbox color scheme for KDE konsole"
 arch=('x86_64')
